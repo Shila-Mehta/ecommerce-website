@@ -85,8 +85,8 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 
 ## Messages
-<img width="700" height="700" alt="localhost_5173_admin (5)" src="https://github.com/user-attachments/assets/a4454dfc-2501-4cee-bae6-2dc27c6f6ba5" />
-<img width="700" height="700" alt="localhost_5173_admin (6)" src="https://github.com/user-attachments/assets/6f0861b8-ea58-437d-803c-49e564d07f49" />
+<img width="500" height="700" alt="localhost_5173_admin (5)" src="https://github.com/user-attachments/assets/a4454dfc-2501-4cee-bae6-2dc27c6f6ba5" />
+<img width="500" height="700" alt="localhost_5173_admin (6)" src="https://github.com/user-attachments/assets/6f0861b8-ea58-437d-803c-49e564d07f49" />
 
 
 
