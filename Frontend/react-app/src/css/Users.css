@@ -1,0 +1,174 @@
+/* --- Form Section --- */
+.user-form  {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  padding: 1.5rem;      
+  background: #fff;
+  border-radius: 0.8rem;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.05);
+  align-items: flex-start;
+}
+
+.user-form h2 {
+  margin-bottom: 1rem; /* tighter */
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #222;
+  text-align: center;
+}
+
+.user-form input,
+.user-form select {
+  display: block;
+  width: 100%;
+  padding: 1rem 1.5rem;   /* shorter height */
+  border: 1px solid #dcdcdc;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  background: #fafafa;
+  transition: all 0.3s ease;
+}
+
+
+.user-form input:focus,
+.user-form select:focus {
+  border-color: #ee5656;
+  background: #fff;
+  box-shadow: 0 0 6px rgba(238, 86, 86, 0.25);
+  outline: none;
+}
+
+.user-form select{
+  margin-top: 1rem;
+}
+
+
+.form-actions  button{
+  background: #ee5656;
+  color: #fff;
+  border: none;
+  padding: 1rem 2rem; /* slimmer */
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.user-form button:hover {
+  background: #d94a4a;
+  transform: translateY(-2px);
+}
+
+.user-form .cancel {
+  background: #999;
+}
+
+.user-form .cancel:hover {
+  background: #777;
+}
+
+/* --- Users Table --- */
+.users-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+  border-radius: 0.8rem;
+  overflow: hidden;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.users-table th,
+.users-table td {
+  padding: 1rem;
+  text-align: left;
+  font-size: 1.2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.users-table th {
+  background: #f7f7f7;
+  font-weight: 600;
+  color: #333;
+}
+
+.users-table tr:hover {
+  background: #fafafa;
+}
+
+/* --- Role Badge --- */
+.role-badge {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #fff;
+}
+
+.role-admin {
+  background-color: #ee5656;
+}
+
+
+.role-customer {
+  background-color: #2196f3;
+}
+
+/* --- Action Buttons in Table --- */
+.users-table button {
+  background: #ee5656;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin-right: 0.4rem;
+  transition: all 0.25s ease;
+}
+
+.users-table button:hover {
+  background: #d94a4a;
+  transform: translateY(-2px);
+}
+
+.users-table .delete-btn {
+  background: #777;
+}
+
+.users-table .delete-btn:hover {
+  background: #555;
+}
+
+/* --- Title --- */
+.users-container h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0.5rem 0;
+  color: #222;
+  text-align: center;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .user-form {
+    padding: 1.2rem;
+  }
+
+  .users-table th,
+  .users-table td {
+    padding: 0.7rem;
+    font-size: 0.85rem;
+  }
+
+  .form-actions {
+    flex-direction: column;
+  }
+
+  .form-actions button {
+    width: 100%;
+  }
+}

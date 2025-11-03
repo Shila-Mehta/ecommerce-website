@@ -1,0 +1,106 @@
+/* --- Container --- */
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f9f9fb, #ececec);
+  padding: 1rem;
+}
+
+/* --- Form Box --- */
+form {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 380px;
+  max-width: 430px;
+  width: 100%;
+  margin: 1.5rem 0;
+  padding: 2rem;
+  border-radius: 0.8rem;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Form Title --- */
+form h2 {
+  margin-bottom: 1rem;
+  color: #333;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+/* --- Inputs --- */
+form input {
+  padding: 0.9rem 1.2rem;
+  width: 100%;
+  margin-top: 1rem;
+  border-radius: 0.6rem;
+  border: 1px solid #ccc;
+  background: #f9f9f9;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+form input:focus {
+  border-color: #f89e9e;
+  outline: none;
+  background: #fff;
+  box-shadow: 0 0 5px rgba(248, 158, 158, 0.4);
+}
+
+/* --- Button --- */
+form button {
+  border: none;
+  outline: none;
+  background: #f89e9e;
+  color: #fff;
+  padding: 0.8rem 1.5rem;
+  margin: 1.2rem 0;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 500;
+  border-radius: 0.6rem;
+  transition: all 0.3s ease;
+}
+
+form button:hover {
+  transform: scale(1.05);
+  background: #f7b0b0;
+  box-shadow: 0px 6px 15px rgba(248, 158, 158, 0.3);
+}
+
+/* --- Extra Links --- */
+.form-links {
+  margin-top: 0.5rem;
+}
+
+.form-links a {
+  color: #f89e9e;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.form-links a:hover {
+  color: #d87c7c;
+  transform: translateY(-2px);
+}
+
+/* --- Message Styling --- */
+form p {
+  margin-top: 0.7rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* --- Responsive --- */
+@media (max-width: 500px) {
+  form {
+    min-width: 100%;
+    padding: 1.5rem;
+  }
+}

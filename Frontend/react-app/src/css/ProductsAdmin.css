@@ -1,0 +1,192 @@
+/* ProductsAdmin.css */
+
+.pa-page {
+  padding: 20px;
+  background: #f9fafc;
+  min-height: 100vh;
+}
+
+.pa-header {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.pa-add-btn {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.pa-add-btn:hover {
+  background: #1d4ed8;
+}
+
+/* Modal */
+.pa-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+}
+
+.pa-modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 400px;
+  max-width: 95%;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+.pa-modal-content h3 {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.pa-modal-content input {
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.pa-preview-img {
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.pa-modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.pa-save-btn {
+  background: #16a34a;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.pa-save-btn:hover {
+  background: #15803d;
+}
+
+.pa-cancel-btn {
+  background: #f3f4f6;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.pa-cancel-btn:hover {
+  background: #e5e7eb;
+}
+
+/* Table */
+.pa-table-wrapper {
+  background: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.pa-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.pa-table th,
+.pa-table td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+  font-size: 14px;
+}
+
+.pa-table th {
+  background: #f3f4f6;
+  font-weight: 600;
+}
+
+.pa-empty-msg {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* Images */
+.pa-thumb-img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+/* Icon Buttons */
+.pa-icon-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 8px;
+  transition: color 0.2s;
+}
+
+.pa-icon-btn.pa-edit {
+  color: #2563eb;
+}
+.pa-icon-btn.pa-edit:hover {
+  color: #1d4ed8;
+}
+
+.pa-icon-btn.pa-delete {
+  color: #dc2626;
+}
+.pa-icon-btn.pa-delete:hover {
+  color: #b91c1c;
+}
+
+
+.pa-confirm-delete-btn {
+  background: #e74c3c;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.pa-confirm-cancel-btn {
+  background: #bdc3c7;
+  color: #2c3e50;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+
+
+

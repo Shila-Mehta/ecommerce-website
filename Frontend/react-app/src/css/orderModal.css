@@ -1,0 +1,168 @@
+/* orderModal.css */
+
+/* Modal background */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+/* Modal box */
+.modal-content {
+  position: relative;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 95%;
+  max-width: 800px;
+  max-height: 90vh;
+  overflow-x: auto;
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.2);
+  animation: slideDown 0.25s ease;
+}
+
+/* Close button */
+.modal-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  border: none;
+  background: transparent;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #6b7280;
+  transition: color 0.2s ease-in-out;
+}
+
+.modal-close:hover {
+  color: #111827;
+}
+
+/* Order details inside modal */
+.order-details h3 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.order-details h4 {
+  margin-top: 1.2rem;
+  font-size: 1.1rem;
+  color: #374151;
+}
+
+/* ================== INFO TABLE ================== */
+.order-info-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  border: 1px solid #e5e7eb;
+
+}
+
+.order-info-table th {
+  text-align: left;
+  padding: 0.6rem;
+  width: 20%;
+  background: #e9f3fd;
+  color: #374151;
+  font-weight: 600;
+  border-left: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.order-info-table td {
+  padding: 0.6rem;
+  color: #374151;
+  border-left: 1px solid #e5e7eb;
+}
+
+/* ================== PRODUCTS TABLE ================== */
+.order-products-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+.order-products-table th,
+.order-products-table td {
+  padding: 0.7rem;
+  border: 1px solid #e5e7eb;
+  font-size: 0.9rem;
+}
+
+.order-products-table th {
+  background: #f3f4f6;
+  font-weight: 600;
+  color: #374151;
+}
+
+.order-products-table tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.order-products-table tfoot td,
+.order-products-table tfoot th {
+  font-weight: 700;
+  background: #f9fafb;
+}
+
+/* Status update dropdown */
+.status-update {
+  margin-top: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.status-update label {
+  font-weight: 500;
+  color: #374151;
+}
+
+.status-update select {
+  padding: 0.4rem 0.7rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: #fff;
+  transition: border 0.2s ease;
+}
+
+.status-update select:hover {
+  border-color: #2563eb;
+}
+
+/* Animation */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+.download-btn {
+  margin-top: 15px;
+  padding: 8px 16px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  background: #43a047;
+}

@@ -1,0 +1,146 @@
+.navbar {
+  background-color: white; /* Navbar background white */
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-logo h2 {
+  color: rgb(225, 78, 83); /* Red brand accent */
+  margin: 0;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navbar-links > *{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  transition: color 0.3s ease;
+  font-size: larger;
+}
+
+.navbar-links a:hover {
+  color: rgb(225, 78, 83); /* Red hover */
+}
+
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cart-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.cart-icon {
+  color: black;
+  transition: color 0.3s ease;
+}
+
+.cart-icon:hover {
+  color: rgb(225, 78, 83); /* Red hover */
+}
+
+.cart-badge {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background-color: rgb(225, 78, 83);
+  color: white;
+  font-size: 0.7rem;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 2px 6px;
+}
+
+.auth-btn,
+.admin-btn {
+  background-color: rgb(225, 78, 83);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+
+.auth-btn:hover,
+.admin-btn:hover {
+  background-color: #4d4d4d; /* Gray hover */
+}
+
+
+/* --- Keep all your existing styles --- */
+/* ... your existing navbar CSS ... */
+
+/* Desktop-specific class */
+.desktop {
+  display: flex;
+}
+
+/* Hamburger hidden on desktop */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.hamburger span {
+  width: 25px;
+  height: 3px;
+  background-color: black;
+  transition: all 0.3s ease;
+}
+
+/* Mobile-specific styles */
+@media (max-width: 768px) {
+  .desktop {
+    display: none; /* hide desktop links and actions */
+  }
+
+  .hamburger.mobile {
+    display: flex;
+  }
+
+  .mobile-menu {
+    position: absolute;
+    top: 70px; /* navbar height */
+    right: 0;
+    background-color: white;
+    width: 200px;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    border-radius: 8px;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .mobile-menu .navbar-links
+   {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .mobile-menu .navbar-actions{
+    display: flex;
+    gap:2rem;
+  }
+
+
+ 
+}

@@ -1,0 +1,72 @@
+.new-arrivals {
+  position: relative;
+  width: 100%;
+  height: 90vh; /* full hero */
+  background: url("/assets/newArrivals.jpg") no-repeat center center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* 👈 pushes text to right */
+  padding: 0 8%;
+  font-family: "Poppins", sans-serif;
+}
+
+.new-arrivals .overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to left,
+    rgba(0, 0, 0, 0.1) 30%, /* darker on left where image is */
+    rgba(0, 0, 0, 0.2) 70%, /* lighter toward right */
+    transparent 100%
+  );
+  z-index: 1;
+}
+
+.new-arrivals .content {
+  position: relative;
+  z-index: 2;
+  max-width: 500px;
+  text-align: left;
+}
+
+.new-arrivals h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+   color: #087FC8;
+
+}
+
+.new-arrivals h4 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.new-arrivals p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  color: #2c2b2b;
+}
+
+.new-arrivals .cta {
+   display: block;
+   margin: 0 auto;
+  padding: 0.9rem 2rem;
+  background: #fff;
+  color: #111;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.new-arrivals .cta:hover {
+  background: #111;
+  color: #fff;
+}

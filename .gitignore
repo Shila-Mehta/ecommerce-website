@@ -1,0 +1,47 @@
+# === Root Level ===
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.pid.lock
+
+# Node modules (just in case)
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependencies of sub-projects
+Backend/node_modules/
+Frontend/react-app/node_modules/
+
+# Build or dist
+Backend/build/
+Backend/dist/
+Frontend/react-app/dist/
+Frontend/react-app/build/
+
+# Cache
+.cache/
+.eslintcache
+
+# Deployment platform folders
+.vercel/
+.netlify/
+.firebase/

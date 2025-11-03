@@ -1,0 +1,57 @@
+.why-shop-with-us {
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+  background-color: #f2f2f2; 
+}
+
+.why-shop-with-us h1 {
+  text-align: center;
+  margin: 1.5rem 0;
+  color: rgb(225, 78, 83); /* brand red for heading */
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 300px;
+  height: 200px;
+  background-color: white; /* clean card */
+  border-top: 6px solid rgb(225, 78, 83); /* accent highlight */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.card i {
+  font-size: 3rem;
+  color: rgb(225, 78, 83); /* red for icons */
+  margin-bottom: 1rem;
+}
+
+.card h3 {
+  color: black;
+  margin-bottom: 0.5rem;
+}
+
+.card p {
+  color: gray; /* secondary text */
+  font-size: 0.95rem;
+  text-align: center;
+  line-height: 1.4;
+}
