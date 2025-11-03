@@ -60,7 +60,7 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/GTP.git
+git clone https://github.com/Shila-Mehta/ecommerce-website.git
 cd GTP
 
 
