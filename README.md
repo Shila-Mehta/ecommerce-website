@@ -67,27 +67,7 @@ cd GTP
 2️⃣ Backend Setup
 cd Backend
 npm install
-
-Create .env in /Backend:
-
-PORT=5000
-NODE_ENV=development
-MONGO_URI=mongodb://localhost:27017/mydatabase
-API_KEY=your_api_key_here
-STRIPE_SECRET_KEY=sk_test_51S2o61EcIV1O0AmpTjgtVs32gbuigXETNFbHoptxLQTGkWlKsw9DZ9FWTtScuVke1vN1DEkTTep5wDPwoum1Ysqs00unlNUnOS
-
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=465
-SMTP_SECURE=true
-SMTP_USER=nimraabduljabbar14@gmail.com
-SMTP_PASS=xabmzfadlvpqtnhm
-FROM_EMAIL=Nimra <nimraabduljabbar14@gmail.com>
-
-
-Start backend:
-
 npm run start
-
 
 Backend runs at http://localhost:5000
 
@@ -98,7 +78,11 @@ npm run dev
 
 Frontend runs at http://localhost:5173
 
+```
+
 🗂️ Folder Structure
+
+```
 📁GTP
     └── 📁Backend
         └── 📁controllers
@@ -278,11 +262,11 @@ Passionate about building scalable, maintainable, and production-ready applicati
 
 📬 Contact:
 
-Email: your.email@example.com
+Email: nimraabduljabbar14@gmail.com
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/n-jabbar-1113aa374/
 
-Portfolio: Your Portfolio Website
+Portfolio:https://nimra-react-portfolio.netlify.app/
 
 🪪 License
 
