@@ -56,6 +56,22 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 ---
 
+
+
+📸 Screenshots / Demo
+
+Home Page
+<img width="2146" height="8678" alt="localhost_5173_" src="https://github.com/user-attachments/assets/b395d98d-52e7-460a-8291-e4117e625cfe" />
+
+Product Listings
+
+Cart & Checkout
+<img width="2146" height="1522" alt="localhost_5173_ (2)" src="https://github.com/user-attachments/assets/a46361b6-4ceb-4bcf-8afa-bc0a2a848ed4" />
+
+Admin Dashboard
+<img width="2146" height="1522" alt="localhost_5173_admin" src="https://github.com/user-attachments/assets/f97c1baf-45ff-4ff6-83e7-590076fa6d38" />
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -243,17 +259,6 @@ Frontend runs at http://localhost:5173
     └── .gitignore
 ```
 
-📸 Screenshots / Demo
-
-Include polished images or GIFs of:
-
-Home Page
-
-Product Listings
-
-Cart & Checkout
-
-Admin Dashboard
 
 🧑‍💻 About the Developer
 
