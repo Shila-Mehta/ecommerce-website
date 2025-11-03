@@ -64,7 +64,12 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 <img width="2146" height="1522" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/159a8e07-508c-4f00-ade7-9b1810ee91ca" />
 <img width="2146" height="1522" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/83c224ba-5667-4624-8162-4edc3ae713eb" />
 <img width="3236" height="2200" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/3c4a1c54-cbae-496d-b76c-82b5bda47342" />
-<img width="3220" height="2284" alt="localhost_5173_ (6)" src="https://github.com/user-attachments/assets/38380306-45c6-496b-9a0c-e28bda8db7a7" />
+<img width="3220" height="2132" alt="localhost_5173_ (6)" src="https://github.com/user-attachments/assets/d42e1ebc-035a-4921-bed0-98f5ebef5bbc" />
+
+## Admin Dashboard
+<img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
+<img width="824" height="104" alt="image" src="https://github.com/user-attachments/assets/ab268a86-1183-4fbc-a074-423182dc7836" />
+
 
 
 ## Testimoninials
@@ -90,8 +95,6 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 
 
-## Admin Dashboard
-<img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
 
 
 ## ⚙️ Installation & Setup
