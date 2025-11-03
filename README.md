@@ -62,6 +62,8 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 Home Page
 <img width="2146" height="8678" alt="localhost_5173_" src="https://github.com/user-attachments/assets/b649e91e-f86c-4388-b3d8-33d3aaaa1d60" />
+<img width="2146" height="1522" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/159a8e07-508c-4f00-ade7-9b1810ee91ca" />
+
 
 Product Listings
 
