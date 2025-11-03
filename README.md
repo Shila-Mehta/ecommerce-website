@@ -71,12 +71,22 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 <img width="3220" height="2284" alt="localhost_5173_admin (3)" src="https://github.com/user-attachments/assets/e37425ee-8938-4307-a6fa-d55a762ae3ac" />
 
 
+## Orders
+<img width="3220" height="2284" alt="localhost_5173_admin (4)" src="https://github.com/user-attachments/assets/6684a1f2-648f-41bc-b037-f7487e5bfd4e" />
+
+
+
 ## Product Listings
 <img width="3220" height="2284" alt="localhost_5173_admin (2)" src="https://github.com/user-attachments/assets/9cde9052-27ab-4060-bc25-2e45d30ab433" />
 
 
 ## Cart & Checkout
 <img width="2146" height="1522" alt="localhost_5173_ (2)" src="https://github.com/user-attachments/assets/a46361b6-4ceb-4bcf-8afa-bc0a2a848ed4" />
+
+
+## Messages
+<img width="3220" height="2284" alt="localhost_5173_admin (5)" src="https://github.com/user-attachments/assets/a4454dfc-2501-4cee-bae6-2dc27c6f6ba5" />
+
 
 ## Admin Dashboard
 <img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
