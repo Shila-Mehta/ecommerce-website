@@ -68,7 +68,7 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 ## Admin Dashboard
 <img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
-<img width="824" height="104" alt="image" src="https://github.com/user-attachments/assets/ab268a86-1183-4fbc-a074-423182dc7836" />
+<img width="3220" height="104" alt="image" src="https://github.com/user-attachments/assets/ab268a86-1183-4fbc-a074-423182dc7836" />
 
 
 
