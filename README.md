@@ -60,18 +60,26 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 📸 Screenshots / Demo
 
-Home Page
+## Home Page
 <img width="2146" height="1522" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/159a8e07-508c-4f00-ade7-9b1810ee91ca" />
 <img width="2146" height="1522" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/83c224ba-5667-4624-8162-4edc3ae713eb" />
+<img width="3236" height="2200" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/3c4a1c54-cbae-496d-b76c-82b5bda47342" />
+<img width="3236" height="2200" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/86e43dc9-fbe0-423f-8678-3bfc7a0c3b12" />
 
 
+## Testimoninials
+<img width="3220" height="2284" alt="localhost_5173_admin (3)" src="https://github.com/user-attachments/assets/e37425ee-8938-4307-a6fa-d55a762ae3ac" />
 
-Product Listings
 
-Cart & Checkout
+## Product Listings
+<img width="3220" height="2284" alt="localhost_5173_admin (2)" src="https://github.com/user-attachments/assets/9cde9052-27ab-4060-bc25-2e45d30ab433" />
+
+
+## Cart & Checkout
 <img width="2146" height="1522" alt="localhost_5173_ (2)" src="https://github.com/user-attachments/assets/a46361b6-4ceb-4bcf-8afa-bc0a2a848ed4" />
 
-Admin Dashboard
+## Admin Dashboard
+<img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
 <img width="2146" height="1522" alt="localhost_5173_admin" src="https://github.com/user-attachments/assets/f97c1baf-45ff-4ff6-83e7-590076fa6d38" />
 
 
