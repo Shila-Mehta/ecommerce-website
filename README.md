@@ -93,6 +93,17 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 <img width="500" height="700" alt="localhost_5173_admin (5)" src="https://github.com/user-attachments/assets/a4454dfc-2501-4cee-bae6-2dc27c6f6ba5" />
 <img width="500" height="700" alt="localhost_5173_admin (6)" src="https://github.com/user-attachments/assets/6f0861b8-ea58-437d-803c-49e564d07f49" />
 
+## SignUP & Login
+<img width="550" height="2284" alt="localhost_5173_auth" src="https://github.com/user-attachments/assets/adea5379-f73f-44bc-b2d5-47ae3955287a" />
+<img width="550" height="2284" alt="localhost_5173_auth (1)" src="https://github.com/user-attachments/assets/045528a6-50c1-4e6e-a32f-5ab909efb226" />
+
+## Contact Us Page
+<img width="3220" height="3040" alt="localhost_5173_contact" src="https://github.com/user-attachments/assets/6c654037-9a58-472c-8697-d732eae6fb08" />
+
+
+
+
+
 
 
 
