@@ -45,3 +45,4 @@ Frontend/react-app/build/
 .vercel/
 .netlify/
 .firebase/
+".env" 
