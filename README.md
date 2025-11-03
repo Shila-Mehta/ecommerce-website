@@ -61,7 +61,7 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 📸 Screenshots / Demo
 
 Home Page
-![Uploading localhost_5173_.png…]()
+<img width="2146" height="8678" alt="localhost_5173_" src="https://github.com/user-attachments/assets/b649e91e-f86c-4388-b3d8-33d3aaaa1d60" />
 
 Product Listings
 
