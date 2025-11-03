@@ -64,7 +64,7 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 <img width="2146" height="1522" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/159a8e07-508c-4f00-ade7-9b1810ee91ca" />
 <img width="2146" height="1522" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/83c224ba-5667-4624-8162-4edc3ae713eb" />
 <img width="3236" height="2200" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/3c4a1c54-cbae-496d-b76c-82b5bda47342" />
-<img width="3236" height="2200" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/86e43dc9-fbe0-423f-8678-3bfc7a0c3b12" />
+<img width="3220" height="2284" alt="localhost_5173_ (6)" src="https://github.com/user-attachments/assets/38380306-45c6-496b-9a0c-e28bda8db7a7" />
 
 
 ## Testimoninials
@@ -80,7 +80,6 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 ## Admin Dashboard
 <img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
-<img width="2146" height="1522" alt="localhost_5173_admin" src="https://github.com/user-attachments/assets/f97c1baf-45ff-4ff6-83e7-590076fa6d38" />
 
 
 ## ⚙️ Installation & Setup
