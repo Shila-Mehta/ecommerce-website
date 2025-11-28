@@ -68,21 +68,6 @@ cd GTP
 cd Backend
 npm install
 
-Create .env in /Backend:
-
-PORT=5000
-NODE_ENV=development
-MONGO_URI=mongodb://localhost:27017/mydatabase
-API_KEY=your_api_key_here
-STRIPE_SECRET_KEY=sk_test_51S2o61EcIV1O0AmpTjgtVs32gbuigXETNFbHoptxLQTGkWlKsw9DZ9FWTtScuVke1vN1DEkTTep5wDPwoum1Ysqs00unlNUnOS
-
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=465
-SMTP_SECURE=true
-SMTP_USER=nimraabduljabbar14@gmail.com
-SMTP_PASS=xabmzfadlvpqtnhm
-FROM_EMAIL=Nimra <nimraabduljabbar14@gmail.com>
-
 
 Start backend:
 
