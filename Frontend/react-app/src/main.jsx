@@ -5,7 +5,7 @@ import { CartProvider } from "./context/cartContext";
 
 import Home from "./pages/Home";
 import Products from "./pages/Products";
-import WhyShopWithUS from "./pages/WhyShopWithUS";
+import WhyShopWithUS from "./pages/WhyShopWithUsPage";
 import ContactUs from "./pages/ContactUs";
 import AdminDashboardPage from "./pages/AdminDashboardPage";
 import AuthPage from "./pages/AuthPage";
