@@ -5,7 +5,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
 
 ---
 
@@ -56,23 +55,70 @@ This project demonstrates end-to-end **full-stack development skills**, **real-w
 
 ---
 
+
+
+📸 Screenshots / Demo
+
+## Home Page
+<img width="2146" height="1522" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/159a8e07-508c-4f00-ade7-9b1810ee91ca" />
+<img width="2146" height="1522" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/83c224ba-5667-4624-8162-4edc3ae713eb" />
+<img width="3236" height="2200" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/3c4a1c54-cbae-496d-b76c-82b5bda47342" />
+<img width="3220" height="2132" alt="localhost_5173_ (6)" src="https://github.com/user-attachments/assets/d42e1ebc-035a-4921-bed0-98f5ebef5bbc" />
+
+## Admin Dashboard
+<img width="3220" height="2284" alt="localhost_5173_admin (1)" src="https://github.com/user-attachments/assets/b411b397-e768-4e58-8b39-acbbbe82e1f8" />
+<img width="3220" height="104" alt="image" src="https://github.com/user-attachments/assets/ab268a86-1183-4fbc-a074-423182dc7836" />
+
+
+
+## Testimoninials
+<img width="3220" height="2284" alt="localhost_5173_admin (3)" src="https://github.com/user-attachments/assets/e37425ee-8938-4307-a6fa-d55a762ae3ac" />
+
+
+## Orders
+<img width="3220" height="2284" alt="localhost_5173_admin (4)" src="https://github.com/user-attachments/assets/6684a1f2-648f-41bc-b037-f7487e5bfd4e" />
+
+
+
+## Product Listings
+<img width="3220" height="2284" alt="localhost_5173_admin (2)" src="https://github.com/user-attachments/assets/9cde9052-27ab-4060-bc25-2e45d30ab433" />
+
+
+## Cart & Checkout
+<img width="2146" height="1522" alt="localhost_5173_ (2)" src="https://github.com/user-attachments/assets/a46361b6-4ceb-4bcf-8afa-bc0a2a848ed4" />
+
+
+## Messages
+<img width="500" height="700" alt="localhost_5173_admin (5)" src="https://github.com/user-attachments/assets/a4454dfc-2501-4cee-bae6-2dc27c6f6ba5" />
+<img width="500" height="700" alt="localhost_5173_admin (6)" src="https://github.com/user-attachments/assets/6f0861b8-ea58-437d-803c-49e564d07f49" />
+
+## SignUP & Login
+<img width="500" height="2284" alt="localhost_5173_auth" src="https://github.com/user-attachments/assets/adea5379-f73f-44bc-b2d5-47ae3955287a" />
+<img width="500" height="2284" alt="localhost_5173_auth (1)" src="https://github.com/user-attachments/assets/045528a6-50c1-4e6e-a32f-5ab909efb226" />
+
+## Contact Us Page
+<img width="3220" height="2284" alt="localhost_5173_contact (1)" src="https://github.com/user-attachments/assets/4c768720-f872-4bad-b68e-5caa247813af" />
+
+
+
+
+
+
+
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/GTP.git
+git clone https://github.com/Shila-Mehta/ecommerce-website.git
 cd GTP
 
 
 2️⃣ Backend Setup
 cd Backend
 npm install
-
-
-Start backend:
-
 npm run start
-
 
 Backend runs at http://localhost:5000
 
@@ -83,7 +129,11 @@ npm run dev
 
 Frontend runs at http://localhost:5173
 
+```
+
 🗂️ Folder Structure
+
+```
 📁GTP
     └── 📁Backend
         └── 📁controllers
@@ -244,17 +294,6 @@ Frontend runs at http://localhost:5173
     └── .gitignore
 ```
 
-📸 Screenshots / Demo
-
-Include polished images or GIFs of:
-
-Home Page
-
-Product Listings
-
-Cart & Checkout
-
-Admin Dashboard
 
 🧑‍💻 About the Developer
 
@@ -263,11 +302,11 @@ Passionate about building scalable, maintainable, and production-ready applicati
 
 📬 Contact:
 
-Email: your.email@example.com
+Email: nimraabduljabbar14@gmail.com
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/n-jabbar-1113aa374/
 
-Portfolio: Your Portfolio Website
+Portfolio:https://nimra-react-portfolio.netlify.app/
 
 🪪 License
 
