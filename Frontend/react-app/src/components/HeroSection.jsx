@@ -4,11 +4,11 @@ const HeroSection = () => {
   return (
     <section className="hero">
       <img
-        src="assets/heroimage.png"
+        src="assets/heroimage3.png"
         alt="hero background"
         className="hero-bg zoom-bg"
       />
-      <div className="hero-overlay"></div>
+      {/* <div className="hero-overlay"></div> */}
 
       <div className="hero-content">
         <h4 className="fade-up delay-1">Discover Premium Products</h4>
